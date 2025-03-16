@@ -6,6 +6,6 @@ I don't think versions 1.10 and earlier exist anywhere, but versions 1.11-1.13 a
 
 ## Requirements
 
-Python version 1.10 or later
-`pygame` module
+Python version 1.10 or later\
+`pygame` module\
 `PIL` module
