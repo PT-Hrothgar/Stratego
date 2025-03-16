@@ -1,1 +1,0 @@
-Here we have a text file whose only purpose is to be deleted.
